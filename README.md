@@ -27,55 +27,55 @@ Talend Open Studio, SQL, Schema Handling, Bulk Loading, Stored Procedures, Slowl
 <h2>Documentation:</h2>
 
 <p align="center">
-Schema Handling - Retrieved Tables via Metadata <br/>
+1.1 Schema Handling - Retrieved Tables via Metadata <br/>
 <img src="https://github.com/user-attachments/assets/86796858-7e38-47fd-8352-7f69495da4e5" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-Schema Handling - Writing Stored Queries  <br/>
+1.2 Schema Handling - Writing Stored Queries  <br/>
 <img src="https://github.com/user-attachments/assets/99486324-fadd-41c9-8c67-553bc2bfd28d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Schema Handling - Job Designer Workflow <br/>
+1.3 Schema Handling - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/7b07ae7b-cb44-4791-9ef5-194ff3a41403" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Bulk Loading - Job Designer Workflow  <br/>
+2.1 Bulk Loading - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/0ca76dde-e2ac-4729-a08d-e775bee9b3db" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Stored Queries - Jod Designer Workflow  <br/>
+3.1 Stored Queries - Jod Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/1a6279cd-d768-4e47-9069-9e932ed799bf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Stored Queries - SQL Query in Talend  <br/>
+3.2 Stored Queries - SQL Query in Talend  <br/>
 <img src="https://github.com/user-attachments/assets/0f6d7cc8-41df-49c4-8d2d-ef9c39b83852" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-SCD - Job Designer Workflow  <br/>
+4.1 SCD - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/518ee639-4ae5-4c63-bbf8-531acc9d9bfa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-SCD - SCD Component Editor  <br/>
+4.2 SCD - SCD Component Editor  <br/>
 <img src="https://github.com/user-attachments/assets/cfbcabe0-a0bd-4d73-9638-ff75cf32a34b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-SCD - History Table Result in MySQL Database  <br/>
+4.3 SCD - History Table Result in MySQL Database  <br/>
 <img src="https://github.com/user-attachments/assets/f0ac2e15-1090-4394-ada8-5ebe4755c745" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ELT - Child Job Workflow  <br/>
+5.1 ELT - Child Job Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/a25f9888-4e0d-4762-9596-e887c16ff754" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ELT - Parent Job Workflow <br/>
+5.2 ELT - Parent Job Workflow <br/>
 <img src="https://github.com/user-attachments/assets/8ff8cb05-f847-4f03-91e4-f955ca995517" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ELT - Mapping (Self Join) and SQL Query  <br/>
+5.3 ELT - Mapping (Self Join) and SQL Query  <br/>
 <img src="https://github.com/user-attachments/assets/ff107ef1-92c9-47cf-9759-a33bf65a0e25" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ELT - Table Result in MySQL Database  <br/>
+5.4 ELT - Table Result in MySQL Database  <br/>
 <img src="https://github.com/user-attachments/assets/0ef3f778-c7f6-4bfd-9260-9ceaebb1c95d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
