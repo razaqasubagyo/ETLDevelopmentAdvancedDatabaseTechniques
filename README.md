@@ -31,28 +31,54 @@ Schema Handling - Retrieved Tables via Metadata <br/>
 <img src="https://github.com/user-attachments/assets/86796858-7e38-47fd-8352-7f69495da4e5" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Schema Handling - Writing Stored Queries  <br/>
+<img src="https://github.com/user-attachments/assets/99486324-fadd-41c9-8c67-553bc2bfd28d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Schema Handling - Job Designer Workflow <br/>
+<img src="https://github.com/user-attachments/assets/7b07ae7b-cb44-4791-9ef5-194ff3a41403" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Bulk Loading - Job Designer Workflow  <br/>
+<img src="https://github.com/user-attachments/assets/0ca76dde-e2ac-4729-a08d-e775bee9b3db" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Stored Queries - Jod Designer Workflow  <br/>
+<img src="https://github.com/user-attachments/assets/1a6279cd-d768-4e47-9069-9e932ed799bf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Stored Queries - SQL Query in Talend  <br/>
+<img src="https://github.com/user-attachments/assets/0f6d7cc8-41df-49c4-8d2d-ef9c39b83852" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SCD - Job Designer Workflow  <br/>
+<img src="https://github.com/user-attachments/assets/518ee639-4ae5-4c63-bbf8-531acc9d9bfa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+SCD - SCD Component Editor  <br/>
+<img src="https://github.com/user-attachments/assets/cfbcabe0-a0bd-4d73-9638-ff75cf32a34b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+SCD - History Table Result in MySQL Database  <br/>
+<img src="https://github.com/user-attachments/assets/f0ac2e15-1090-4394-ada8-5ebe4755c745" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ELT - Child Job Workflow  <br/>
+<img src="https://github.com/user-attachments/assets/a25f9888-4e0d-4762-9596-e887c16ff754" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ELT - Parent Job Workflow <br/>
+<img src="https://github.com/user-attachments/assets/8ff8cb05-f847-4f03-91e4-f955ca995517" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ELT - Mapping (Self Join) and SQL Query  <br/>
+<img src="https://github.com/user-attachments/assets/ff107ef1-92c9-47cf-9759-a33bf65a0e25" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ELT - Table Result in MySQL Database  <br/>
+<img src="https://github.com/user-attachments/assets/0ef3f778-c7f6-4bfd-9260-9ceaebb1c95d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
