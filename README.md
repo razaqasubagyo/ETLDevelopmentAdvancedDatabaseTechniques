@@ -28,7 +28,7 @@ Talend Open Studio, SQL, Schema Handling, Bulk Loading, Stored Procedures, Slowl
 
 <p align="center">
 Schema Handling - Retrieved Tables via Metadata <br/>
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHZP6AhGsWQ5A/feedshare-shrink_2048_1536/B4DZgyo7kOH4Ao-/0/1753196248988?e=1757548800&v=beta&t=z1N0eoaEqxaZm7uRcC8Gh-VIgh_6cuHkm_l4ZS1JfW0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/86796858-7e38-47fd-8352-7f69495da4e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
